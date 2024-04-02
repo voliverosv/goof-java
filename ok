@@ -1,0 +1,14 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 9e47442..809acd9 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -6,4 +6,6 @@[m [mIt's divided into modules, each one having its own README:[m
+ [m
+ * [Todolist Goof](todolist-goof/README.md)[m
+ * [Log4Shell Goof](log4shell-goof/README.md)[m
+[31m-* [Quickstart for running both Todolist with Log4Shell in Kubernetes](README-K8S.md)[m
+\ No newline at end of file[m
+[32m+[m[32m* [Quickstart for running both Todolist with Log4Shell in Kubernetes](README-K8S.md)[m
+[32m+[m
+[32m+[m[32mTeste modificacao[m
+\ No newline at end of file[m
