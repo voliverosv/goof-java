@@ -10,4 +10,4 @@ It's divided into modules, each one having its own README:
 
 Arquivo alterado para branch "feature"
 
-Teste git
+Teste git 2
